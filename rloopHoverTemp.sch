@@ -625,4 +625,8 @@ NoConn ~ 4200 2150
 NoConn ~ 5000 2150
 NoConn ~ 4200 4750
 NoConn ~ 5000 4750
+Text Label 7900 1450 0    39   ~ 0
+24V_A
+Text Label 7900 4050 0    39   ~ 0
+24V_B
 $EndSCHEMATC
