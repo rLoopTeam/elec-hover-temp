@@ -1,4 +1,4 @@
-update=5/16/2016 9:19:10 PM
+update=5/20/2016 9:27:16 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,13 +59,3 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=rloop
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=39
